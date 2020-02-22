@@ -1,5 +1,17 @@
 # Lingwa de Planeta / Simplaj Frazoj
 
+- [Lingwa de Planeta / Simplaj Frazoj](#lingwa-de-planeta--simplaj-frazoj)
+  - [Ĉefa verboformo kaj personaj pronomoj](#%c4%88efa-verboformo-kaj-personaj-pronomoj)
+    - [Tradukada Ekzercaro 1.1](#tradukada-ekzercaro-11)
+  - [Neado, demandoj kaj respondoj, emfazante partiklo ya](#neado-demandoj-kaj-respondoj-emfazante-partiklo-ya)
+    - [Tradukada Ekzercaro 1.2](#tradukada-ekzercaro-12)
+  - [Partikloj de pasintaj, estontaj tempoj kaj Konjunkcioj](#partikloj-de-pasintaj-estontaj-tempoj-kaj-konjunkcioj)
+    - [Tradukada Ekzercaro 1.3](#tradukada-ekzercaro-13)
+  - [Novaj verboj](#novaj-verboj)
+  - [Leciona Ekzercado 1.4](#leciona-ekzercado-14)
+  - [Etikedo: Saluti kaj adiaŭi](#etikedo-saluti-kaj-adia%c5%adi)
+  - [Lingvo en fokuso: La Angla](#lingvo-en-fokuso-la-angla)
+
 **En ĉi tiu leciono ni lernos:**
 
 - 7 Pronomoj (me, nu, yu, ta, lu, ela, li)
@@ -9,16 +21,6 @@
 - 7 Gramatikaj partikloj (bu, ob, ya, non, doh, -te, ve)
 
 >Entute 34 vort-unuoj
-
-## Enhavo
-
-1. [La ĉefa formo de la verbaj kaj personaj pronomoj](#La-ĉefa-formo-de-la-verbaj-kaj-personaj-pronomoj)
-2. [Neado, demandoj kaj respondoj, emfazante partiklo ya](#Neado-demandoj-kaj-respondoj-emfazante-partiklo-ya)
-3. [Partikloj de pasintaj kaj estontaj tempoj, Konjunkcioj](#partikloj-de-pasintaj-estontaj-tempoj-kaj-konjunkcioj)
-4. [Novaj verboj](#Novaj-verboj)
-5. [Leciona Ekzercado](#Leciona-Ekzercado)
-6. [Etikedo: Saluti kaj adiaŭi](#Etikedo-Saluti-kaj-adiaŭi)
-7. [Lingvo en fokuso: la angla](#Lingvo-en-fokuso-La-Angla)
 
 ## Ĉefa verboformo kaj personaj pronomoj
 
@@ -48,23 +50,22 @@ Personaj pronomoj:
 - Li - Ili
 
 | Persono | Singularo | Pluralo |
-|:---:|:---:|:---:|
-| 1 | Mi | Nu |
-| 2 | Yu |
-| 3 | Ta |
-| 3 | Lu, Ela | Li |
+| :-----: | :-------: | :-----: |
+|    1    |    Mi     |   Nu    |
+|    2    |    Yu     |
+|    3    |    Ta     |
+|    3    |  Lu, Ela  |   Li    |
 
 > **ta** - ofta pronomo uzata por iu ajn vivantan (viro, virino, infano, besto). Se estas necese indiki la sekson, oni povas uzi la pronomojn lu (li) kaj ela (ŝi).
-
 > **yu** - estas la komuna pronomo nomanta la homon (j) al kiu oni aludas. Se oni bezonas klarigi, oni povas uzi la kombinaĵojn **yu oli** (vi ĉiuj), **yu ambi** (vi ambaŭ), **yu un** (kiam oni elektas iun el la grupo).
 
 Kiu agas (tio estas, la subjekto) estas kutime antaŭ la verbo.
 
 | Lidepla | Esperanto |
-|---|---|
-| me lubi | mi amas |
-| yu lubi | vi amas |
-| nu lubi | ni amas |
+| ------- | --------- |
+| me lubi | mi amas   |
+| yu lubi | vi amas   |
+| nu lubi | ni amas   |
 
 La baza formo de la verbo mem ne indikas la daŭron de la ago.
 
@@ -78,135 +79,135 @@ ekzemple:
 
 Se ne ekzistas kunteksto, la estanta tempo estas implicita.
 
-| Lidepla | Esperanto |
-|---|---|
-| yeri yu shwo | hieraŭ vi diris |
+| Lidepla         | Esperanto           |
+| --------------- | ------------------- |
+| yeri yu shwo    | hieraŭ vi diris     |
 | manya nu samaji | morgaŭ ni komprenos |
 
 ### Tradukada Ekzercaro 1.1
 
-| Esperanto | lidepla |
-|---|---|
-| ni vivas | |
-| ili vivas | |
-| li esperas | |
-| ŝi esperas | |
-| ili scias | |
-| mi scias | |
-| vi parolas | |
-| ĉiuj vi parolas | |
-| mi parolas | |
+| Esperanto       | lidepla |
+| --------------- | ------- |
+| ni vivas        |         |
+| ili vivas       |         |
+| li esperas      |         |
+| ŝi esperas      |         |
+| ili scias       |         |
+| mi scias        |         |
+| vi parolas      |         |
+| ĉiuj vi parolas |         |
+| mi parolas      |         |
 
 ## Neado, demandoj kaj respondoj, emfazante partiklo ya
 
 Por neado, la partiklo **bu** estas metita antaŭ la verbo.
 
-| Lidepla | Esperanto |
-|---|---|
+| Lidepla   | Esperanto   |
+| --------- | ----------- |
 | Me bu jan | Mi ne scias |
 
 Por fari demandon, necesas meti la partiklon **ob** antaŭ la tutan frazon.
 
-| Lidepla | Esperanto |
-|---|---|
+| Lidepla       | Esperanto       |
+| ------------- | --------------- |
 | Ob yu samaji? | Ĉu vi komprenas |
 
 ### Tradukada Ekzercaro 1.2
 
-| Esperanto | lidepla |
-|---|---|
-| Ĉu vi amas? | |
-| Mi ne amas | |
-| Ĉu ŝi ne amas? | |
-| Ŝi ne scias | |
-| Ĉu li ne esperas? | |
-| Li vivas | |
-| Ĉu vi ne komprenas? | |
-| Ni esperas | |
-| Ĉu ili parolas? | |
-| Ili ne scias | |
+| Esperanto           | lidepla |
+| ------------------- | ------- |
+| Ĉu vi amas?         |         |
+| Mi ne amas          |         |
+| Ĉu ŝi ne amas?      |         |
+| Ŝi ne scias         |         |
+| Ĉu li ne esperas?   |         |
+| Li vivas            |         |
+| Ĉu vi ne komprenas? |         |
+| Ni esperas          |         |
+| Ĉu ili parolas?     |         |
+| Ili ne scias        |         |
 
 Oni povas respondi ĝeneralan demandon per la vortoj:
 
-- ya - jes
-- non - ne
-- doh - "ne, jes, Ho jes, tute male." (nur por respondi neada demando aŭ aserto)
+- **ya** - jes
+- **non** - ne
+- **doh** - "ne, jes, Ho jes, tute male." (nur por respondi neada demando aŭ aserto)
 
-| Ob yu samaji? |  |
-|---|---|
-| Ja, me samaji. | Jes, mi komprenas. |
+| Ob yu samaji?      |                     |
+| ------------------ | ------------------- |
+| Ja, me samaji.     | Jes, mi komprenas.  |
 | Non, me bu samaji. | Ne, mi ne komprenas |
 
-| Ob yu bu samaji? |  |
-|---|---|
+| Ob yu bu samaji?        |                     |
+| ----------------------- | ------------------- |
 | Ya / Non, me bu samaji. | Ne, mi ne komprenas |
-| Doh, me samaji. | Ne, mi komprenas. |
+| Doh, me samaji.         | Ne, mi komprenas.   |
 
 La vorto (partiklo) **ya** povas esti metita antaŭ aŭ post la verbo por emfazgi ĝian signifon:
 
-| Lidepla | Esperanto |
-|---|---|
+| Lidepla       | Esperanto        |
+| ------------- | ---------------- |
 | Me samaji ya! | Mi ja komprenas! |
-| Me ya lubi! | Mi ja amas! |
+| Me ya lubi!   | Mi ja amas!      |
 
 ## Partikloj de pasintaj, estontaj tempoj kaj Konjunkcioj
 
 Por klarigi la tempon de la ago(se estas necese), oni uzas tiujn partiklojn:
 
-- ve (antaŭ la verbo) - estonta tempo
-- -te (post la verbo kunligita kun strekto) - pasinta tempo
+- **ve** (antaŭ la verbo) - estonta tempo
+- **-te** (post la verbo kunligita kun strekto) - pasinta tempo
 
-| Lidepla | Esperanto |
-|---|---|
-| me lubi-te | mi amis |
-| yu ve lubi | vi amos |
+| Lidepla         | Esperanto        |
+| --------------- | ---------------- |
+| me lubi-te      | mi amis          |
+| yu ve lubi      | vi amos          |
 | li bu ve samaji | ili ne komprenos |
 
 ### Tradukada Ekzercaro 1.3
 
-| Esperanto | lidepla |
-|---|---|
-| Ĉu vi amis? | |
-| Mi amos. | |
-| Ĉu li komprenos? | |
-| Ĉu ŝi esperas? | |
-| Ŝi esperis. | |
-| Ŝi ne esperos. | |
-| Ni vivos. | |
+| Esperanto        | lidepla |
+| ---------------- | ------- |
+| Ĉu vi amis?      |         |
+| Mi amos.         |         |
+| Ĉu li komprenos? |         |
+| Ĉu ŝi esperas?   |         |
+| Ŝi esperis.      |         |
+| Ŝi ne esperos.   |         |
+| Ni vivos.        |         |
 
 la konjunkcioj estas utilaj por kombini vortojn kaj frazojn:
 
-- e - kaj
-- o - aŭ
-- bat - sed
-- dabe - por ke
-- bikos - ĉar
+- **e** - kaj
+- **o** - aŭ
+- **bat** - sed
+- **dabe** - por ke
+- **bikos** - ĉar
 
-| Lidepla | Esperanto |
-|---|---|
-| me e yu | mi kaj vi |
-| ela o me | ŝi aŭ mi |
-| me jan bat bu samaji | mi scias sed ne komprenas |
-| me kredi dabe yu nadi | mi kredas por ke vi esperas |
-| me nadi bikos me kredi | mi esperas ĉar mi kredas |
+| Lidepla                | Esperanto                   |
+| ---------------------- | --------------------------- |
+| me e yu                | mi kaj vi                   |
+| ela o me               | ŝi aŭ mi                    |
+| me jan bat bu samaji   | mi scias sed ne komprenas   |
+| me kredi dabe yu nadi  | mi kredas por ke vi esperas |
+| me nadi bikos me kredi | mi esperas ĉar mi kredas    |
 
 ## Novaj verboj
 
 Verboj estas donitaj kun ekzemploj de uzo, por faciligi la enmemorigon kaj ripetadon de gramatikaj partikloj.
 
-| Verbo | traduko | ekzemplo |
-|:--:|---|---|
-| dumi | pensi | me dumi, li ve dumi, nu dumi-te
-| jan | scii/koni | me bu jan, ob yu jan?
-| samaji | kompreni | ta bu samaji, ob yu samaji?
-| kredi | kredi | me kredi, ta bu kredi-te, nu ve kredi
-| nadi | esperi | ob yu nadi? me nadi-te ya!
-| lubi | ami | nu lubi, me ve lubi, ta lubi-te
-| gun | labori | li bu gun, me gun, ob yu gun?
-| jivi | vivi/loĝi | nu ve jivi, li jivi-te
-| vidi | vidi | ob yu vidi? ta bu vidi, me vidi ya!
-| audi | aŭdi | ob yu audi? me bu audi, ta ve audi
-| shwo | paroli | me shwo-te, ob yu ve shwo?
+| Verbo  | traduko   | ekzemplo                              |
+| :----: | --------- | ------------------------------------- |
+|  dumi  | pensi     | me dumi, li ve dumi, nu dumi-te       |
+|  jan   | scii/koni | me bu jan, ob yu jan?                 |
+| samaji | kompreni  | ta bu samaji, ob yu samaji?           |
+| kredi  | kredi     | me kredi, ta bu kredi-te, nu ve kredi |
+|  nadi  | esperi    | ob yu nadi? me nadi-te ya!            |
+|  lubi  | ami       | nu lubi, me ve lubi, ta lubi-te       |
+|  gun   | labori    | li bu gun, me gun, ob yu gun?         |
+|  jivi  | vivi/loĝi | nu ve jivi, li jivi-te                |
+|  vidi  | vidi      | ob yu vidi? ta bu vidi, me vidi ya!   |
+|  audi  | aŭdi      | ob yu audi? me bu audi, ta ve audi    |
+|  shwo  | paroli    | me shwo-te, ob yu ve shwo?            |
 
 ## Leciona Ekzercado 1.4
 
@@ -228,31 +229,31 @@ En Lidepla, ekzistas unu universala vorto, kiu povas esti elparolata kiel saluto
 
 Ankaŭ, oni povas diri:
 
-| Lidepla | Esperanto |
-|---|---|
-| Salam! | Saluton! |
-| Namastee! | Saluton! |
+| Lidepla   | Esperanto |
+| --------- | --------- |
+| Salam!    | Saluton!  |
+| Namastee! | Saluton!  |
 
 kaj por adiaŭi:
 
 | Lidepla | Esperanto |
-|---|---|
-| Chao! | Adiaŭ! |
-| Adyoo! | Adiaŭ! |
+| ------- | --------- |
+| Chao!   | Adiaŭ!    |
+| Adyoo!  | Adiaŭ!    |
 
 > Memoru: duobligado de la vokalo indikas, ke ĉi tiu vokalo estas akcentita
 
 Por enkonduki vin, oni bezonas la verbon **nami** (nomi):
 
-| Lidepla | Esperanto |
-|---|---|
+| Lidepla      | Esperanto       |
+| ------------ | --------------- |
 | Me nami Lena | Mi nomiĝas Lena |
 
 Post kiam la interparolanto diras sian nomon, oni povas esprimi ĝojon pro renkontiĝo per la verbo **joi** (ĝoji):
 
 | Lidepla | Esperanto |
-|---|---|
-| Me joi. | Mi ĝojas |
+| ------- | --------- |
+| Me joi. | Mi ĝojas  |
 
 ```txt
   - Salam! Me nami Nina.
@@ -286,13 +287,13 @@ Vi sendube havas ideon pri kiel sonas angla parolo. Sed tamen, por komparo kun l
 
 > La transskribo estu legata laŭ la reguloj de legado de Lidepla, sonoj ne en Lidepla estas skrititaj uzante la du sonojn plej proksimajn en sono, apartigitaj per oblikvo; la akcento estas metita antaŭ la streĉita silabo.
 
-| Angla | |
-|---|---|
-| Oh, little prince! | oo litl prins |
-| Bit by bit I came to understand the secrets of your sad little life. | bit bay bit ay keym tu ande'stend t/se 'siikri/ets e/ov yoo se/ad litl layf |
+| Angla                                                                                                 |                                                                                                         |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Oh, little prince!                                                                                    | oo litl prins                                                                                           |
+| Bit by bit I came to understand the secrets of your sad little life.                                  | bit bay bit ay keym tu ande'stend t/se 'siikri/ets e/ov yoo se/ad litl layf                             |
 | For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset. | for e long taym yu hed faund yoo ounli ente'teynment in t/se kwayt 'plezhe e/ov 'luking et t/se 'sanset |
-| I learned that new detail on the morning of the fourth day, when you said to me: | ay lee/oond t/set nyu 'diiteyl on t/se 'mooning e/ov t/se foof/s dey, wen yu sed tu mi |
-| I am very fond of sunsets. | ay em 'veri fond e/ov 'sansets. |
+| I learned that new detail on the morning of the fourth day, when you said to me:                      | ay lee/oond t/set nyu 'diiteyl on t/se 'mooning e/ov t/se foof/s dey, wen yu sed tu mi                  |
+| I am very fond of sunsets.                                                                            | ay em 'veri fond e/ov 'sansets.                                                                         |
 
 Oni povas rimarki, ke la angla lingvo estas karakterizata de sufiĉe mallongaj vortoj kaj granda nombro da diftongoj (duoblaj vokaloj: ai, ou, ktp). Krome klare videblas, ke la literumo signife diferencas de la sono de la vorto.
 

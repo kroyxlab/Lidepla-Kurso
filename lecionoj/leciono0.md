@@ -1,14 +1,17 @@
 # Lingwa de planeta / Leciono 0
 
-## Enhavo
-
-1. [Lingwa de planeta - neŭtrala lingvo de internacia komunikado](#Lingwa-de-planeta---neŭtrala-internacia-lingvo)
-2. [Alfabeto kaj elparolo](#Alfabeto-kaj-prononco)
-3. [Akcento](#Akcento)
+- [Lingwa de planeta / Leciono 0](#lingwa-de-planeta--leciono-0)
+  - [Lingwa de planeta - neŭtrala internacia lingvo](#lingwa-de-planeta---ne%c5%adtrala-internacia-lingvo)
+    - [Kio devas esti la lingvo de internacia komunikado](#kio-devas-esti-la-lingvo-de-internacia-komunikado)
+  - [Alfabeto kaj prononco](#alfabeto-kaj-prononco)
+    - [Vokaloj](#vokaloj)
+      - [Bazaj konsonantoj](#bazaj-konsonantoj)
+      - [Konsonantoj aldonaj](#konsonantoj-aldonaj)
+    - [Akcento](#akcento)
 
 ## Lingwa de planeta - neŭtrala internacia lingvo
 
-### Kio devas esti la lingvo de internacia komunikado?
+### Kio devas esti la lingvo de internacia komunikado
 
 Probable neŭtrala. Tio estas, ne apartenanta al iuj apartaj homoj (kiel ekzemple la angla). Probable kun simpla gramatiko. Tio estas, ne enhavante grandegan nombron da diversaj formoj, kiujn oni devas lerni (kiel la rusa). Probable simpla fonetike. Tio estas, por ke ĉiuj sonoj estos facile prononciita por parolantojn de diversaj lingvoj. Probable harmonia. Tio estas, ke la parolado devas soni bela, kaj parolado pri kiu do estus agrabla. Verŝajne enhavas internaciajn kaj disvastigitajn vortojn - por tio ili estas internaciaj. Probable, tiel ke ĝi povus esti perceptata kiel natura, sen netaŭga skemo. Nu, probable, ideale, tiel ke io similas al denaska lingvo - denaska parolanto de iu ajn lingvo.
 
@@ -53,13 +56,13 @@ La literoj de Lidepla estas ĉefe fonetikaj, tio estas, ke la vortoj estas skrib
 
 ### Vokaloj
 
-| Litero | Prononco | Ekzemplo |
-|:---:|---|---|
-| a | kiel la "a" en "jaro" | ba (partiklo imperativa), man (viro) |
-| e | kiel la "e" en "ke" | de (de), pet (kvin) |
-| i | kiel la "i" en "rido" | li (ili), pi (trinki) |
-| o | kiel la "o" en "rompi" | to (tio), fo (por) |
-| u | kiel la "u" en "sub" | bu (ne), sun (baldaŭ) |
+| Litero | Prononco               | Ekzemplo                             |
+| :----: | ---------------------- | ------------------------------------ |
+|   a    | kiel la "a" en "jaro"  | ba (partiklo imperativa), man (viro) |
+|   e    | kiel la "e" en "ke"    | de (de), pet (kvin)                  |
+|   i    | kiel la "i" en "rido"  | li (ili), pi (trinki)                |
+|   o    | kiel la "o" en "rompi" | to (tio), fo (por)                   |
+|   u    | kiel la "u" en "sub"   | bu (ne), sun (baldaŭ)                |
 
 > La literoj "i" kaj "y" indikas la saman sonon [i]. La uzo de la litero "y" en letero indikas ĉefe la foreston de streĉo/akcento sur "i": pyu (pli) . Krome, "y" ĉe la fino de la vorto indikas, ke la vorto ne estas verbo: krai (plori) - skay (ĉielo)
 
@@ -67,28 +70,28 @@ La literoj de Lidepla estas ĉefe fonetikaj, tio estas, ke la vortoj estas skrib
 
 Ĉiuj konsonantoj prononcas sammaniere en iu ajn pozicio.
 
-| Literoj | Prononco | Ekzemplo |
-|:---:|---|---|
-| b, d, g | kiel "bona", "dankon", "granda", respectivamente | bu (ne), de (de), ga (tute) |
-| p, t, k | kiel "patro", "teo", "koro", respectivamente | pa (preposición de significado general), pet (cinco) |
-| w | kiel "ŭ" en "hieraŭ" | wel (¡Bone!) |
-| f | kiel "f" en "feliĉa" | fai (fari) |
-| s | kiel "s" en "sano" kaj "urso" | si (se), also (ankaŭ) |
-| sh | kiel "ŝ" en "ŝi" | shu (ŝuo), shao (malgranda, malmulte) |
-| j | kiel "ĵ" en "ĵeti" | jan (scii) |
-| z | kiel "z" en "kvazaŭ" | zuy (plej) |
-| m, n | kiel "manĝas" kaj "naĝi"| man (viro) |
-| l | kiel "l" en "larĝa" | li (ili), lao (malnova)|
-| r | kiel "r" en "ruĝa" | roli (rodar) |
-| h | kiel "h" en "homo" | hao (bona) |
+| Literoj | Prononco                                         | Ekzemplo                                             |
+| :-----: | ------------------------------------------------ | ---------------------------------------------------- |
+| b, d, g | kiel "bona", "dankon", "granda", respectivamente | bu (ne), de (de), ga (tute)                          |
+| p, t, k | kiel "patro", "teo", "koro", respectivamente     | pa (preposición de significado general), pet (cinco) |
+|    w    | kiel "ŭ" en "hieraŭ"                             | wel (¡Bone!)                                         |
+|    f    | kiel "f" en "feliĉa"                             | fai (fari)                                           |
+|    s    | kiel "s" en "sano" kaj "urso"                    | si (se), also (ankaŭ)                                |
+|   sh    | kiel "ŝ" en "ŝi"                                 | shu (ŝuo), shao (malgranda, malmulte)                |
+|    j    | kiel "ĵ" en "ĵeti"                               | jan (scii)                                           |
+|    z    | kiel "z" en "kvazaŭ"                             | zuy (plej)                                           |
+|  m, n   | kiel "manĝas" kaj "naĝi"                         | man (viro)                                           |
+|    l    | kiel "l" en "larĝa"                              | li (ili), lao (malnova)                              |
+|    r    | kiel "r" en "ruĝa"                               | roli (rodar)                                         |
+|    h    | kiel "h" en "homo"                               | hao (bona)                                           |
 
 #### Konsonantoj aldonaj
 
-| Litero | Prononco | Ekzemplo |
-|:---:|---|---|
-| ch | kiel "ĉ" en "ĉielo" | chay (té) |
-| v  | kiel "v" en "vento" | vino (vino) |
-| ng | al la fino de la vorto estas prononcita kiel  "n" (preparu diri "g", sed diru "n"). Meze de la vorto estas prononcata kiel kombinaĵo de "ng" | feng (wind) |
+| Litero | Prononco                                                                                                                                     | Ekzemplo    |
+| :----: | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|   ch   | kiel "ĉ" en "ĉielo"                                                                                                                          | chay (té)   |
+|   v    | kiel "v" en "vento"                                                                                                                          | vino (vino) |
+|   ng   | al la fino de la vorto estas prononcita kiel  "n" (preparu diri "g", sed diru "n"). Meze de la vorto estas prononcata kiel kombinaĵo de "ng" | feng (wind) |
 
 > La litero X nombras la kombinaĵon de "ks", en la pozicio inter la vokaloj ĝi povas esti prononcita : examen (ekzameno) , antaŭ la konsonanto oni povas prononci ĝin kiel simpla "s": explosi (eksplodi).
 
