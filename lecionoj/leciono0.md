@@ -67,9 +67,7 @@ La literoj de Lidepla estas ĉefe fonetikaj, tio estas, ke la vortoj estas skrib
 
 Ĉiuj konsonantoj prononcas sammaniere en iu ajn pozicio.
 
-#### bazaj konsonantoj
-
-| Literoj | Pronunco | Ekzemplo |
+| Literoj | Prononco | Ekzemplo |
 |:---:|---|---|
 | b, d, g | kiel "bona", "dankon", "granda", respectivamente | bu (ne), de (de), ga (tute) |
 | p, t, k | kiel "patro", "teo", "koro", respectivamente | pa (preposición de significado general), pet (cinco) |
@@ -84,9 +82,9 @@ La literoj de Lidepla estas ĉefe fonetikaj, tio estas, ke la vortoj estas skrib
 | r | kiel "r" en "ruĝa" | roli (rodar) |
 | h | kiel "h" en "homo" | hao (bona) |
 
-#### Consonantes adicionales:
+#### Konsonantoj aldonaj
 
-| Letra | Pronunciación | Ejemplo|
+| Litero | Prononco | Ekzemplo |
 |:---:|---|---|
 | ch | kiel "ĉ" en "ĉielo" | chay (té) |
 | v  | kiel "v" en "vento" | vino (vino) |
@@ -100,7 +98,7 @@ La literoj de Lidepla estas ĉefe fonetikaj, tio estas, ke la vortoj estas skrib
 
 Baza reguloj:
 
-**Akcento falas sur la vokalon antaŭ la lasta konsonanto aŭ "y".**
+Akcento falas sur la vokalon antaŭ la lasta konsonanto aŭ "**y**".
 
 Ekzemploj:
 
@@ -113,7 +111,7 @@ Ekzemploj:
 - jaopáy - signboard
 - suóla - plando
 
-**En kombinoj de ao; au, eu; ai, oi, ei oni devas esti emfazita la unua vokalo.**
+En kombinoj de **ao**; **au**, **eu**; **ai**, **oi**, **ei** oni devas esti emfazita la unua vokalo.
 
 Ekzemploj:
 
@@ -126,16 +124,16 @@ Ekzemploj:
 - bréin - cerbo
 - asteróida - asteroido
 
-**Lidepla provas konservi la internacian voĉan bildon de vortoj, do ekzistas kelkaj pliaj reguloj. Ĉi tiuj reguloj ne devas esti enmemorigitaj. Simple legu la tutan tekston atente kaj spektu mallongan instruan filmeton . En la lernolibro ĉiuj dubaj kazoj estas indikitaj aparte:**
+Lidepla provas konservi la internacian voĉan bildon de vortoj, do ekzistas kelkaj pliaj reguloj. Ĉi tiuj reguloj ne devas esti enmemorigitaj. Simple legu la tutan tekston atente kaj spektu mallongan instruan filmeton . En la lernolibro ĉiuj dubaj kazoj estas indikitaj aparte:
 
-1. 4 konsonaj finaĵoj estas ĉiam sen akcento:
+- 4 konsonaj finaĵoj estas ĉiam sen akcento:
 
-  - –en (ínen - en, íven - eĉ)
-  - –us (vírus - viruso)
-  - –um (fórum - forumo, sírkum - ĉirkaŭ)
-  - –er (ínter - inter, kompyúter - computilo)
+  - **–en** (ínen - en, íven - eĉ)
+  - **–us** (vírus - viruso)
+  - **–um** (fórum - forumo, sírkum - ĉirkaŭ)
+  - **–er** (ínter - inter, kompyúter - computilo)
 
-2. la finaĵoj -ik- kaj -ul- en substantivoj kaj adjektivoj (simplaj) neniam estas emfazitaj
+- la finaĵoj **-ik-** kaj **-ul-** en substantivoj kaj adjektivoj (simplaj) neniam estas emfazitaj
 
   - gramátika
   - pedagógika
@@ -149,9 +147,9 @@ Ekzemploj:
   - stímula
   - ángula
 
-3. la finaĵo -im estas sen akcento en la vortoj minim (minimumo), mínimum (minimuma), mximum (maksimuma).
+- la finaĵo -im estas sen akcento en la vortoj minim (minimumo), mínimum (minimuma), mximum (maksimuma).
 
-4. En aliaj kazoj, ne-norma akcento estas indikita per duobligo de la vokalo:
+- En aliaj kazoj, ne-norma akcento estas indikita per duobligo de la vokalo:
 
   - kwantitaa - kvanto
   - kwalitaa kvalito (kaj ĉiuj abstraktaj substantivoj formitaj el adjektivoj kun la sufikso -(i)taa)
@@ -162,21 +160,22 @@ Ekzemploj:
 
 **Kiam oni fari vortformado, la akcento ne ŝanĝiĝas en la originala vorto:**
 
-1. la formado de la pluralo de substantivoj (+(e)s):
+- la formado de la pluralo de substantivoj ( +**(e)s** ):
 
   - kitAba / kitAbas – libro / libroj
   - man / mAnes – viro / viroj
 
-2. Adverboj formitaj el adjektivoj (–em):
+- Adverboj formitaj el adjektivoj ( **–em** ):
 
   - jamIle / jamIlem – bela / bele
 
-3. Substantivoj formitaj el verboj( –ing):
+- Substantivoj formitaj el verboj ( **–ing** ):
 
   - lOpi / lOping – kuri / kuristo
 
 Kunmetitaj vortoj retenas la streĉon de la komponentoj. Sufiksoj komenciĝantaj per konsonanto povas havi plian akcento.
-  - gínalík - ineca (el gína - ino)
-  - kúsishíl - mordadi (el kúsi - mordi)
+
+- gínalík - ineca ( el **gína** - **ino** )
+- kúsishíl - mordadi ( el **kúsi** - **mordi** )
 
 [Spektu kaj aŭskultu](https://www.youtube.com/watch?v=d3dhsU5UrLw)
