@@ -181,4 +181,6 @@ Kunmetitaj vortoj retenas la streĉon de la komponentoj. Sufiksoj komenciĝantaj
 - gínalík - ineca ( el **gína** - **ino** )
 - kúsishíl - mordadi ( el **kúsi** - **mordi** )
 
+[Sekva leciono](./leciono1.md)
+
 [Spektu kaj aŭskultu](https://www.youtube.com/watch?v=d3dhsU5UrLw)

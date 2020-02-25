@@ -552,4 +552,6 @@ Adjektivoj:
 
 [Ŝlosiloj por tradukaj ekzercoj](../sxlosiloj/sxlosilo2.md)
 
+[Sekva leciono](./leciono3.md)
+
 [Vido la listo de enhavo](../README.md)

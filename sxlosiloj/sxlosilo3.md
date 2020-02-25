@@ -8,7 +8,7 @@
   - [Ekzercoj 3.5](#ekzercoj-35)
   - [Ekzercoj 3.6](#ekzercoj-36)
   - [Ekzercoj 3.7](#ekzercoj-37)
-  - [Ekzercoj 3.8](#ekzercoj-38)
+  - [Leciona Ekzercado](#leciona-ekzercado)
 
 ## Ekzercoj 3.1
 
@@ -90,7 +90,7 @@
 | Eta homo    | jen-ki     |
 | floreta     | flor-ki    |
 
-## Ekzercoj 3.8
+## Leciona Ekzercado
 
 | Esperanto                                                                                                         | Lidepla                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |

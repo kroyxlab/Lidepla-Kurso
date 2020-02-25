@@ -360,4 +360,6 @@ Adjektivoj:
 
 [Ŝlosiloj por tradukaj ekzercoj](../sxlosiloj/sxlosilo1.md)
 
+[Sekva leciono](./leciono2.md)
+
 [Vido la listo de enhavo](../README.md)

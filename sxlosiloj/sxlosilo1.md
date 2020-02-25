@@ -4,7 +4,7 @@
   - [Ekzerco 1.1](#ekzerco-11)
   - [Ekzerco 1.2](#ekzerco-12)
   - [Ekzerco 1.3](#ekzerco-13)
-  - [Ekzerco 1.4](#ekzerco-14)
+  - [Leciona Ekzercado](#leciona-ekzercado)
 
 ## Ekzerco 1.1
 
@@ -47,7 +47,7 @@
 | Ŝi ne esperos.   | Ela bu ve nadi.     |
 | Ni vivos.        | Nu ve jivi.         |
 
-## Ekzerco 1.4
+## Leciona Ekzercado
 
 | Esperanto                                  | Lidepla                                   |
 | ------------------------------------------ | ----------------------------------------- |

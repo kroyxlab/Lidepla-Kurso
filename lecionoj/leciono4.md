@@ -331,6 +331,8 @@ En tiaj frazoj, la vortoj **yo**(jam) kaj **haishi**(ankoraŭ) povas esti utilaj
 
 ## Teksto
 
+Legu kaj komprenu la tekston.
+
 ```txt
   In animal-shop.
 
@@ -390,7 +392,7 @@ Eltiraĵo de la eta Princo en la araba (la transskribo reflektas nur la sonon; e
 
 La fontotekston vi povas vidi skribita en araba skripto [ĈI TIE](http://lidepla.org/sites/default/files/arabe.png) .
 
-La vortoj de la lidepla estas de araba origino:
+La vortoj de lidepla kiuj estas de araba origino:
 
 Substantivoj:
 
@@ -430,5 +432,7 @@ Adjektivoj:
 - jatile - kompleksa
 
 [Ŝlosiloj por tradukaj ekzercoj](../sxlosiloj/sxlosilo4.md)
+
+[Sekva leciono](./leciono5.md)
 
 [Vido la listo de enhavo](../README.md)

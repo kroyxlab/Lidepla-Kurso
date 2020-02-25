@@ -7,7 +7,7 @@
   - [Ekzerco 4.4](#ekzerco-44)
   - [Ekzerco 4.5](#ekzerco-45)
   - [Ekzerco 4.6](#ekzerco-46)
-  - [Ekzerco 4.7](#ekzerco-47)
+  - [Leciona Ekzercado](#leciona-ekzercado)
 
 ## Ekzerco 4.1
 
@@ -67,7 +67,7 @@
 | sidigi    | mah-sidi |
 | vidiĝi    | fa-vidi  |
 
-## Ekzerco 4.7
+## Leciona Ekzercado
 
 | Esperanto                                                                                   | Lidepla                                                                    |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |

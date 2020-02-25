@@ -9,7 +9,7 @@
   - [Ekzerco 2.6](#ekzerco-26)
   - [Ekzerco 2.7](#ekzerco-27)
   - [Ekzerco 2.8](#ekzerco-28)
-  - [Ekzerco 2.9](#ekzerco-29)
+  - [Leciona Ekzercado](#leciona-ekzercado)
 
 ## Ekzerco 2.1
 
@@ -110,7 +110,7 @@
 | Mi kredas,ĉar mi ne volas vivi sen vi.            | Me kredi, sikom me bu yao jivi sin yu. |
 | Poste mi respondos al vi.                         | Poy me ve jawabi a yu.                 |
 
-## Ekzerco 2.9
+## Leciona Ekzercado
 
 | Esperanto                                                              | Lidepla                                                           |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
